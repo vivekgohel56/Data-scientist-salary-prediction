@@ -1,0 +1,4 @@
+# Data-scientist-salary-prediction
+First I had explored the data and check that any null values are present or not in data exploration part then after I have to clean the data that I had done in data cleaning part in that there were so many rows in particular columns that value we cannot take directly in our problem so first we have to clean that all columns and then after I had done data analysis in that I had plotted a bar plot of the count of the values of a categorical variable and use pivot table so that I had come to know that which variable is highly affecting our target then after in feature engineering handling all categorical variables and finally in model building notebook the I had used many models but among them, XGBoost was performing well with test score:-81.88% and LightGBM was also performing well with test score:-80.63%.
+
+Thanks to:-https://github.com/anujvyas/Machine-Learning-Projects/tree/master/Data%20Scientist's%20Salary%20Prediction
